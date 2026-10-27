@@ -93,4 +93,4 @@ def make_review_prompt(resume_text: str, job_description: str) -> str:
         "- Give an estimated ATS-readiness score from 0 to 100. It is an educational estimate, not a score from a real employer's ATS.",
         "- Do not invent qualifications, experience, metrics, degrees, certifications, or skills.",
         "- Distinguish visible issues from details you cannot verify.",
-        "- Be constructive and fair to students and entry-level candidates.",
+        "- Be constructive and fair to students and entry-level candidates.",]
